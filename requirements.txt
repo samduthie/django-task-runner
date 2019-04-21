@@ -1,0 +1,14 @@
+APScheduler==3.6.0
+Django==2.2
+django-apscheduler==0.3.0
+django-dramatiq==0.7.0
+django-scheduler==0.8.8
+dramatiq[rabbitmq,watch]==1.5.0
+icalendar==4.0.3
+pika==1.0.1
+prometheus-client==0.2.0
+python-dateutil==2.8.0
+pytz==2019.1
+six==1.12.0
+sqlparse==0.3.0
+tzlocal==1.5.1
